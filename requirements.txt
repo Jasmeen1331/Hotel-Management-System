@@ -1,0 +1,17 @@
+# Hotel Management System - Python Dependencies
+# Install all dependencies: pip install -r requirements.txt
+
+# MySQL Database Connector
+mysql-connector-python==8.2.0
+
+# GUI Framework (included with Python, listed for reference)
+# tkinter (comes pre-installed with Python)
+
+# Image Processing
+Pillow==10.1.0
+
+# Calendar Widget for Date Selection
+tkcalendar==1.6.1
+
+# Additional Utilities
+python-dateutil==2.8.2
